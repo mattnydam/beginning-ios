@@ -1,18 +1,18 @@
 # Tutorial 
 
+This course is designed to accommodate people with no programming experience all the way through to advanced programmers. It is primarily focused on understanding how an iOS application is built, without focusing too much on the nitty gritty of programming as a whole. if you are interested in learning more about programming, there are a lot of fantastic courses available online. 
 
-Within the workspace there are different stages. We will start at Stage Zero and work primarily in this porjct. if at any point you get stuck, you can always switch to a different project stage. Ie., If you are following along with a class and instructor and they have progressed to stage 3 and you are still a little stuck on 1, then you can just open up the stage 3 project and all the relevant files will be up to date :) 
+## Hardware/Software Requirements
 
+- A Mac running MacOS Sierra (10.12) or higher.
+- Xcode 9
+- iTunes Developer account (If you want to build to your own iOS device)
 
-## Prerequisites 
+Within the workspace there are different stages. We will start at Stage Zero and work primarily in this project. if at any point you get stuck, you can always switch to a different project stage. For example, if you are following along with a class and instructor and they have progressed to stage 3 and you are still a little stuck on 1, then you can just open up the stage 3 project and all the relevant files will be up to date :) 
 
+## Stage Zero
 
-## Stage Zero Notes
-
-- Talk about app delegate
-- Normal app structure in general, things to ignore
-
-Walk through general project structure and talk about different view types. Empty table view implemented.
+[Here](StageZero.md)
 
 **Stage Zero Outcome:** We will have a tableview populated with plain string data. When we tap a table view cell we will push to a new screen and pass the data across. 
 
